@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding: 0%;
+    background: hsl(0, 0%, 8%);
+}
+.D1
+{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.D2{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.d1{
+    background: hsl(0, 0%, 20%);
+    margin-bottom: 10px;
+    width: 350px;
+    color: aliceblue;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+
+}
+.d1:hover{
+    background: rgba(190, 255, 93, 0.552);
+}
+.big_D2{
+    background: hsl(0, 0%, 12%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.bid_D1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+.paragraph2{
+    color: hsl(75,94%,57%);
+    margin-top: 0px;
+}
+.pic{
+    border-radius: 110px;
+    display: flex;
+    height: 100px;
+}
+
+.paragraph3{
+    margin-top: 0px;
+    margin-bottom: 30px;
+    color: aliceblue;
+}
+.paragraph1{
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+    text-underline-position: none;
+}
