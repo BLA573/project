@@ -66,5 +66,5 @@ body{
 }
 a{
     color: aliceblue;
-    text-underline-position: none;
+    text-decoration: none;
 }
