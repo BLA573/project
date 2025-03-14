@@ -29,6 +29,8 @@ body{
 }
 .d1:hover{
     background: rgba(190, 255, 93, 0.552);
+    color: black ;
+
 }
 .big_D2{
     background: hsl(0, 0%, 12%);
@@ -67,4 +69,8 @@ body{
 a{
     color: aliceblue;
     text-decoration: none;
+}
+p:hover{
+    color: black;
+
 }
