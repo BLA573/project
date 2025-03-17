@@ -30,9 +30,14 @@ body{
 .d1:hover{
     background: rgba(190, 255, 93, 0.552);
     color: black ;
+    transition: 0.1s;
+    transition-duration: 0.2s;
+p{
+    color: black;
+}
 
 }
-.big_D2{
+.second_dev{
     background: hsl(0, 0%, 12%);
     display: flex;
     flex-direction: column;
@@ -40,7 +45,7 @@ body{
     padding: 20px;
     border-radius: 10px;
 }
-.bid_D1{
+.first_dev{
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -69,8 +74,4 @@ body{
 a{
     color: aliceblue;
     text-decoration: none;
-}
-p:hover{
-    color: black;
-
 }
