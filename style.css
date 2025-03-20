@@ -28,10 +28,10 @@ body{
 
 }
 .d1:hover{
-    background: rgba(190, 255, 93, 0.552);
+    background: greenyellow;
     color: black ;
-    transition: 0.1s;
-    transition-duration: 0.2s;
+    transition: 0.3s;
+    transition-duration: 0.3s;
 p{
     color: black;
 }
